@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj\impact.xsl
+OUTFILE=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj
+LICENSE=iMPACT
+USER_INFO=iMPACT

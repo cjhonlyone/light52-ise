@@ -1,0 +1,9 @@
+Storage Target: Xilinx Flash/PROM
+Storage Family: Platform Flash
+xcf04s          [4 M]
+FF
+chip
+D:/work/CPU/RISCV/picorv32-Xilinx-ISE/xilinx
+
+MCS
+No

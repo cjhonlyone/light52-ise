@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj\ZYBO_TOP.ncd
+OUTFILE=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj\ZYBO_TOP.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4vq100
+WORKINGDIR=D:\work\CPU\8051\light52_F520_cjh\prj\light52_prj
+LICENSE=WebPack
+USER_INFO=_
